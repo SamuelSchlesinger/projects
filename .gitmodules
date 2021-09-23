@@ -76,3 +76,6 @@
 [submodule "web-dev/gke-template"]
 	path = web-dev/gke-template
 	url = https://github.com/SamuelSchlesinger/gke-template
+[submodule "cli/commander-cli"]
+	path = cli/commander-cli
+	url = https://github.com/SamuelSchlesinger/commander-cli
