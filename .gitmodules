@@ -1,0 +1,78 @@
+[submodule "patterns/generic-match"]
+	path = patterns/generic-match
+	url = https://github.com/SamuelSchlesinger/generic-match
+[submodule "patterns/summer"]
+	path = patterns/summer
+	url = https://github.com/SamuelSchlesinger/summer
+[submodule "patterns/merge"]
+	path = patterns/merge
+	url = https://github.com/SamuelSchlesinger/merge
+[submodule "patterns/commander"]
+	path = patterns/commander
+	url = https://github.com/SamuelSchlesinger/commander
+[submodule "patterns/mtl-uplift"]
+	path = patterns/mtl-uplift
+	url = https://github.com/SamuelSchlesinger/mtl-uplift
+[submodule "patterns/stm-actor"]
+	path = patterns/stm-actor
+	url = https://github.com/SamuelSchlesinger/stm-actor
+[submodule "patterns/stm-incremental"]
+	path = patterns/stm-incremental
+	url = https://github.com/SamuelSchlesinger/stm-incremental
+[submodule "crypto/erc20-bond"]
+	path = crypto/erc20-bond
+	url = https://github.com/SamuelSchlesinger/erc20-bond
+[submodule "crypto/erc20-multi-address-wallet"]
+	path = crypto/erc20-multi-address-wallet
+	url = https://github.com/SamuelSchlesinger/erc20-multi-address-wallet
+[submodule "crypto/erc20-multi-key-safe"]
+	path = crypto/erc20-multi-key-safe
+	url = https://github.com/SamuelSchlesinger/erc20-multi-key-safe
+[submodule "crypto/erc721-options"]
+	path = crypto/erc721-options
+	url = https://github.com/SamuelSchlesinger/erc721-options
+[submodule "crypto/intellectual-capital"]
+	path = crypto/intellectual-capital
+	url = https://github.com/SamuelSchlesinger/intellectual-capital
+[submodule "crypto/smart-proposal"]
+	path = crypto/smart-proposal
+	url = https://github.com/SamuelSchlesinger/smart-proposal
+[submodule "crypto/do"]
+	path = crypto/do
+	url = https://github.com/SamuelSchlesinger/do
+[submodule "crypto/trust-chain"]
+	path = crypto/trust-chain
+	url = https://github.com/SamuelSchlesinger/trust-chain
+[submodule "crypto/crypto-abstractions"]
+	path = crypto/crypto-abstractions
+	url = https://github.com/SamuelSchlesinger/crypto-abstractions
+[submodule "crypto/cropty"]
+	path = crypto/cropty
+	url = https://github.com/SamuelSchlesinger/cropty
+[submodule "crypto/encrypted-message-cli"]
+	path = crypto/encrypted-message-cli
+	url = https://github.com/SamuelSchlesinger/encrypted-message-cli
+[submodule "crypto/encrypted-message-server"]
+	path = crypto/encrypted-message-server
+	url = https://github.com/SamuelSchlesinger/encrypted-message-server
+[submodule "personal-organization/ticket-management"]
+	path = personal-organization/ticket-management
+	url = https://github.com/SamuelSchlesinger/ticket-management
+[submodule "personal-organization/environment"]
+	path = personal-organization/environment
+	url = https://github.com/SamuelSchlesinger/environment
+[submodule "web-dev/hs-ts"]
+	path = web-dev/hs-ts
+	url = https://github.com/SamuelSchlesinger/hs-ts
+[submodule "web-dev/haskell-web-apps"]
+	path = web-dev/haskell-web-apps
+	url = https://github.com/SamuelSchlesinger/haskell-web-apps
+[submodule "web-dev/porpoise"]
+	path = web-dev/porpoise
+	url = https://github.com/SamuelSchlesinger/porpoise
+[submodule "web-dev/servant-restful"]
+	path = web-dev/servant-restful
+	url = https://github.com/SamuelSchlesinger/servant-restful
+[submodule "web-dev/gke-template"]
+	path = web-dev/gke-template
+	url = https://github.com/SamuelSchlesinger/gke-template
